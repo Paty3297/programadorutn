@@ -1,7 +1,6 @@
 TIENDA :
 remera
-short
-bufanda
+
 
 
 ALMACEN :
