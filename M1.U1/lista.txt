@@ -1,0 +1,9 @@
+TIENDA :
+remera
+short
+
+ALMACEN :
+fideos
+yerba
+azucar
+cafe
