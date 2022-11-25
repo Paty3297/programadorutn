@@ -1,9 +1,15 @@
 TIENDA :
 remera
 short
+bufanda
+
 
 ALMACEN :
 fideos
 yerba
 azucar
 cafe
+leche
+te
+dulce de leche
+
